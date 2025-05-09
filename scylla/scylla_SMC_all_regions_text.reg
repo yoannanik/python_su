@@ -1,0 +1,36 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=2 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+text 15.1268 -72.1307 # text={3149ne} color=green
+text 15.0920 -72.1407 # text={3104ne} color=green
+text 16.0049 -72.6406 # text={3029ne} color=green
+text 14.9864,-72.1556 # text={2983ne} color=green
+text 14.7897,-72.2458 # text={2584ne} color=green
+text 14.5068,-72.5693 # text={1588ne} color=green
+text 13.954,-72.6847 # text={879ne} color=green
+text 21.482,-73.0924 # text={8743se} color=green
+text 9.6305,-73.3850 # text={4292sw} color=green
+text 16.011,-72.1003 # text={3956ne} color=green
+text 16.025,-72.1034 # text={3955ne} color=green
+text 15.012,-71.918 # text={3669ne} color=green
+text 16.450,-72.8032 # text={3514se} color=green
+text 15.3016,-72.0730 # text={3435ne} color=green
+text 15.1757,-72.0640 # text={3370ne} color=green
+text 12.821,-72.0094 # text={2773nw} color=green
+text 15.4154,-72.4586 # text={2668ne} color=green
+text 15.208,-72.6258 # text={2272ne} color=green
+text 15.2424,-72.5822 # text={2259ne} color=green
+text 15.1221,-72.5717 # text={2167ne} color=green
+text 14.371,-72.584 # text={1443ne} color=green
+text 14.312,-72.6065 # text={1339ne} color=green
+text 12.859,-72.7757 # text={286sw} color=green
+text 15.7385,-72.7183 # text={2728ne} color=green
+text 21.6672,-73.3217 # text={8904se} color=green
+text 17.616,-73.1762 # text={4745se} color=green
+text 17.513,-73.1561 # text={4646se} color=green
+text 16.658,-72.1247 # text={4451ne} color=green
+text 22.905,-73.4043 # text={10336ne} color=green
+text 20.7653,-73.3234 # text={8151se} color=green
+text 17.8481,-72.6289 # text={4996ne} color=green
+text 14.6267,-72.0394 # text={3154ne} color=green
+text 15.486,-72.2495 # text={3127ne} color=green
