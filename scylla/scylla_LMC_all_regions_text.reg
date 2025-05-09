@@ -1,0 +1,14 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=2 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+text 84.2402 -69.0145 # text={4993} color=green
+text 84.836 -69.0100 # text={5665} color=green
+text 84.691 -69.046 # text={5421} color=green
+text 83.7804 -69.7740 # text={3610} color=green
+text 84.522 -69.0596 # text={5187} color=green
+text 84.343 -69.0699 # text={5127} color=green
+text 76.6549 -71.1790 # text={7234} color=green
+text 84.5594 -69.1407 # text={5199} color=green
+text 84.3272 -69.1460 # text={4958} color=green
+text 84.8049 -69.1537 # text={5389} color=green
+
